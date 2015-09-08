@@ -1,0 +1,16 @@
+c:\users\wilber\documents\visual studio 2010\Projects\demoSQLServer\demoSQLServer\bin\demoSQLServer.dll
+c:\users\wilber\documents\visual studio 2010\Projects\demoSQLServer\demoSQLServer\bin\demoSQLServer.pdb
+c:\users\wilber\documents\visual studio 2010\Projects\demoSQLServer\demoSQLServer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\wilber\documents\visual studio 2010\Projects\demoSQLServer\demoSQLServer\obj\Debug\demoSQLServer.dll
+c:\users\wilber\documents\visual studio 2010\Projects\demoSQLServer\demoSQLServer\obj\Debug\demoSQLServer.pdb
+C:\Users\Wilber\Desktop\demoSQLServer\demoSQLServer\bin\demoSQLServer.dll
+C:\Users\Wilber\Desktop\demoSQLServer\demoSQLServer\bin\demoSQLServer.pdb
+C:\Users\Wilber\Desktop\demoSQLServer\demoSQLServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wilber\Desktop\demoSQLServer\demoSQLServer\obj\Debug\demoSQLServer.dll
+C:\Users\Wilber\Desktop\demoSQLServer\demoSQLServer\obj\Debug\demoSQLServer.pdb
+C:\Users\Oscar\Downloads\dbDemo\dbDemo\demoSQLServer\demoSQLServer\bin\demoSQLServer.dll
+C:\Users\Oscar\Downloads\dbDemo\dbDemo\demoSQLServer\demoSQLServer\bin\demoSQLServer.pdb
+C:\Users\Oscar\Downloads\dbDemo\dbDemo\demoSQLServer\demoSQLServer\obj\Debug\demoSQLServer.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Downloads\dbDemo\dbDemo\demoSQLServer\demoSQLServer\obj\Debug\demoSQLServer.dll
+C:\Users\Oscar\Downloads\dbDemo\dbDemo\demoSQLServer\demoSQLServer\obj\Debug\demoSQLServer.pdb
+C:\Users\Oscar\Downloads\dbDemo\dbDemo\demoSQLServer\demoSQLServer\bin\demoSQLServer.dll.config
